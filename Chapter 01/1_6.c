@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/* expression:getchar() != EOF; the value is */
+/* expression:getchar() != EOF; the value is ;
+ * a kind of answer */
 
 int main()
 {
